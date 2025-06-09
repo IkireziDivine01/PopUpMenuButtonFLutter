@@ -1,7 +1,7 @@
 # c2_popupmenubutton
 
 ## What This App Does
-This app shows how to create and use PopupMenuButton in Flutter. When you tap the three-dot menu icon in the app bar, a pop-up menu appears with options like Profile, Settings, Help, and Logout. When you select any option, the app displays which item you chose.
+A Flutter app demonstrating PopupMenuButton. Tap the menu icon to see popup options and select items.
 
 ## Prerequisites
 Before running this app, make sure you have:
